@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<center><img src="file:///C:/Users/DAHS/Desktop/%EA%B6%8C%EC%A0%95%EC%9D%84_%EC%82%AC%EC%A7%84.html" width="300"></center>
-
+<p align="center"><img src="https://user-images.githubusercontent.com/122766824/233268630-c46a25e2-47f4-4006-8fd6-62b5620271b1.png" width="300"/></p>
+	
 <p>Welcome to my page! </br> I'm Jeong Eul, Datascientist from <a href="https://dahs.korea.ac.kr/home"><b>DAHS</b>, </a> School of Industrial and Management Engineering, Korea University, <img src="https://i.ibb.co/30B7dtg/south-korea.png" width="13"/><b>Korea</b>, currently living in <img src="https://i.ibb.co/30B7dtg/south-korea.png" width="13"/> <b>Incheon, Korea</b>. My research CV is in hear ➡️
 <a href="https://drive.google.com/file/d/1IjF64yBxYT5_CG_EiLFeKOTkPKieMHtc/view?usp=sharing"><b>Curriculum Vitae(CV)</b></a> </p>
 <h3>✳️Skils</h3>
@@ -76,7 +76,7 @@
 </table>
 <h3>🔔My latest posts</h3>
 <ul>
-  <li><a href="https://datascience0321.tistory.com/31"><b><img src="https://i.ibb.co/w6dd2c4/2023-04-20-134254.jpg" width="20" alt="new" /> Multimodal Machine Learning</b></a><br/><i>Foundation of Multimodal Machine Learning Through Survey Review.</i></li>
+  <li><a href="https://datascience0321.tistory.com/31"><b><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Multimodal_Compact_Multilinear_Pooling.png?uselang=ko" width="20"> Multimodal Machine Learning</b></a><br/><i>Foundation of Multimodal Machine Learning Through Survey Review.</i></li>
   <li><a href="https://github.com/Jeong-Eul/Data-Mining-Study/blob/Healthcare-research/Paper/circEWS/review.md"><b>❤️ Early prediction of circulatory failure in the intensive care unit using machine learning</b></a><br/><i>Case study for research of Healthcare Machine Learning. </i></li>
     <li><a href="https://github.com/Jeong-Eul/Data-Mining-Study/tree/Healthcare-research/Paper/Use%20of%20DL"><b>❤️ Use of deep learning to develop continuous-risk models for adverse event prediction from electronic health records</b></a><br/><i>Case study for research of Healthcare Machine Learning.</i></li>
   <li><a href="https://github.com/Jeong-Eul/Data-Mining-Study/blob/NLP/Transformer/README.md"><b>🔥 Transformer study</b></a><br/><i>study for transformer and self attention, also contain code.</i></li>
@@ -84,7 +84,7 @@
   <li><a href="https://datascience0321.tistory.com/27"><b>🚀[Review]Attention-based Auto encoder Topic Model for Short Text</b></a><br/><i>Computer Vision Paper Review.</i></li>
 </ul>
 
-<p>My life style is posted by <a href="https://www.instagram.com/handmadeoutlier/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @handmadeoutlier</a>, <a href="https://blog.naver.com/wjddmf0321"> <img src="https://i.ibb.co/n6MKfmg/1.png" width="20"/> wjddmf0321</a></p>
+<p>My life style is posted by <a href="https://www.instagram.com/handmadeoutlier/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @handmadeoutlier</a>, <a href="https://blog.naver.com/wjddmf0321"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Naver_Logotype.svg/1024px-Naver_Logotype.svg.png?uselang=ko" width="50"/> wjddmf0321</a></p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/Jeong-Eul" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 </p>
