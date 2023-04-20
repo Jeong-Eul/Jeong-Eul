@@ -84,7 +84,10 @@
   <li><a href="https://datascience0321.tistory.com/27"><b>🚀[Review]Attention-based Auto encoder Topic Model for Short Text</b></a><br/><i>Computer Vision Paper Review.</i></li>
 </ul>
 
-<p>My life style is posted by <a href="https://www.instagram.com/handmadeoutlier/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @handmadeoutlier</a>, <a href="https://blog.naver.com/wjddmf0321"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Naver_Logotype.svg/1024px-Naver_Logotype.svg.png?uselang=ko" width="50"/> wjddmf0321</a><a href="[https://blog.naver.com/wjddmf0321](https://datascience0321.tistory.com/)"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Tistory_logo.png" width="70"/> datascience0321</a></p>
+My life style is posted by   
+<p><a href="https://www.instagram.com/handmadeoutlier/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @handmadeoutlier</a></p>       
+<p><a href="https://blog.naver.com/wjddmf0321"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Naver_Logotype.svg/1024px-Naver_Logotype.svg.png?uselang=ko" width="50"/> wjddmf0321</a></p>  
+<p><a href="https://datascience0321.tistory.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Tistory_logo.png" width="70"/> datascience0321</a></p>
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/Jeong-Eul" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
