@@ -21,6 +21,7 @@
   <img alt="git hub" src="https://img.shields.io/badge/-Github-ea2845?style=flat-square&logo=Github&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-DD0031?style=flat-square&logo=C&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C++-CB3837?style=flat-square&logo=C++&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-501515?style=flat-square&logo=HTML&logoColor=white" />
 
 </p>
 <h3>✴️Research Experiences</h3>
@@ -77,6 +78,7 @@
 <h3>🔔My latest posts</h3>
 <ul>
   <li><a href="https://datascience0321.tistory.com/31"><b><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Multimodal_Compact_Multilinear_Pooling.png?uselang=ko" width="20"> Multimodal Machine Learning</b></a><br/><i>Foundation of Multimodal Machine Learning Through Survey Review.</i></li>
+  <li><a href="https://github.com/Jeong-Eul/Data-Mining-Study/blob/main/Paper/BEHRT/REVIEW.md"><b>❤️ BEHRT: Transformer for Electronic Health Records</b></a><br/><i>Case study for research of Healthcare Machine Learning. </i></li>	
   <li><a href="https://github.com/Jeong-Eul/Data-Mining-Study/blob/Healthcare-research/Paper/circEWS/review.md"><b>❤️ Early prediction of circulatory failure in the intensive care unit using machine learning</b></a><br/><i>Case study for research of Healthcare Machine Learning. </i></li>
     <li><a href="https://github.com/Jeong-Eul/Data-Mining-Study/tree/Healthcare-research/Paper/Use%20of%20DL"><b>❤️ Use of deep learning to develop continuous-risk models for adverse event prediction from electronic health records</b></a><br/><i>Case study for research of Healthcare Machine Learning.</i></li>
   <li><a href="https://github.com/Jeong-Eul/Data-Mining-Study/blob/NLP/Transformer/README.md"><b>🔥 Transformer study</b></a><br/><i>study for transformer and self attention, also contain code.</i></li>
@@ -94,4 +96,4 @@ My life style is posted by
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Thursday, 20 April, 02:11 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Thursday, 4 May, 10:35 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
