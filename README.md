@@ -3,7 +3,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/122766824/233268630-c46a25e2-47f4-4006-8fd6-62b5620271b1.png" width="300"/></p>
 	
 <p>Welcome to my page! </br> I'm Jeong Eul, Datascientist from <a href="https://dahs.korea.ac.kr/home"><b>DAHS</b>, </a> School of Industrial and Management Engineering, Korea University, <img src="https://i.ibb.co/30B7dtg/south-korea.png" width="13"/><b>Korea</b>, currently living in <img src="https://i.ibb.co/30B7dtg/south-korea.png" width="13"/> <b>Incheon, Korea</b>. My research CV is in hear ➡️
-<a href="https://drive.google.com/file/d/1IjF64yBxYT5_CG_EiLFeKOTkPKieMHtc/view?usp=sharing"><b>Curriculum Vitae(CV)</b></a> </p>
+<a href="https://drive.google.com/file/d/10aeKZOsSLKD5I6D1KLXl4Jmob4G61P3D/view?usp=share_link"><b>Curriculum Vitae(CV)</b></a> </p>
 <h3>✳️Skils</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
@@ -96,4 +96,4 @@ My life style is posted by
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Thursday, 4 May, 10:35 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Thursday, 18 May, 18:07 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
