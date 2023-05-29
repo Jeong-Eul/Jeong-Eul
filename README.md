@@ -38,35 +38,35 @@
   <tbody>
     <tr>
     <thead align="center">
-      <td><b>기계학습 기반 이종데이터 분류 알고리즘 개발</b></a></td>
+      <td><a href="https://www.notion.so/a94bda26bcee49b9b4da473cfa31d28b?pvs=4"><b>기계학습 기반 이종데이터 분류 알고리즘 개발</b></a></td>
       <td>CDSLab, Industrial and Management, Myongji University</td>
       <td>KISTI</td>
       <td>Mar. 2022 ~ Nov. 2022</td>
       <td>Preprocessing, Developing</td>
     </tr>
 	  <tr>
-      <td><a href="https://docs.google.com/presentation/d/1ep5d_7qge8YAH46r_84I9Yyc4qQetEZA/edit?usp=share_link&ouid=100022709379768729651&rtpof=true&sd=true"><b>신규간호사 채용데이터 분석 및 예측모델 개발</b></a></td>
+      <td><a href="https://www.notion.so/4f04574b0ad7447bb97b551ff80e67e8?pvs=4"><b>신규간호사 채용데이터 분석 및 예측모델 개발</b></a></td>
       <td><center>CDSLab, Industrial and Management, Myongji University</center></td>
       <td>용인세브란스병원</td>
       <td>Jan. 2022 ~ Mar. 2022</td>
       <td>Preprocessing, Developing</td>
     </tr>
     <tr>
-      <td><a href="https://drive.google.com/file/d/1BNdHtJASc_Rc-yTJYfuAIXOJiFhxqSnn/view?usp=share_link"><b>반도체 장비 데이터를 이용한 이상 조기 진단</b></a></td>
+      <td><a href="https://www.notion.so/a323f74c6e144f7f94d546757d63bc6e?pvs=4"><b>반도체 장비 데이터를 이용한 이상 조기 진단</b></a></td>
       <td><center>CDSLab, Industrial and Management, Myongji University</center></td>
       <td>(주)PSK</td>
       <td>Sep. 2021 ~ Dec. 2021</td>
       <td>Experiment</td>
     </tr>
 	  <tr>
-      <td><a href="https://datascience0321.tistory.com/29"><b>2022 빅콘테스트 데이터 분석 퓨처스 부문 우수상</b></a></td>
+      <td><a href="https://www.notion.so/2022-a82a1e1a77774d079a7087826a38a326?pvs=4"><b>2022 빅콘테스트 데이터 분석 퓨처스 부문 우수상</b></a></td>
       <td>FEILD</td>
       <td>2022빅콘테스트, (주)FINDA</td>
       <td>Aug. 2022 ~ Dec. 2022</td>
       <td>Preprocessing, Developing</td>
     </tr>
  	  <tr>
-      <td><a href="https://drive.google.com/file/d/1lL8b5rT5OXKIzRsXZQ0cYBz2pBYghWRH/view?usp=share_link"><b>Presentation in INFORMS 2022, Indianapolis, USA</b></a></td>
+      <td><a href="https://www.notion.so/INFORMS-2022-presentation-01afff4ab13e475392906ca84b4566a7"><b>Presentation in INFORMS 2022, Indianapolis, USA</b></a></td>
       <td><center>CDSLab, Industrial and Management, Myongji University</td>
       <td>Kaggle</td>
       <td>Jan. 2022 ~ Present</td>
@@ -96,4 +96,4 @@ My life style is posted by
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Monday, 22 May, 14:57 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Monday, 29 May, 16:10 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
