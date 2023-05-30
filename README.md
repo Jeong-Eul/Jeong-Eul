@@ -41,7 +41,7 @@
       <td><a href="https://www.notion.so/a94bda26bcee49b9b4da473cfa31d28b?pvs=4"><b>기계학습 기반 이종데이터 분류 알고리즘 개발</b></a></td>
       <td>CDSLab, Industrial and Management, Myongji University</td>
       <td>KISTI</td>
-      <td>Mar. 2022 ~ Nov. 2022</td>
+      <td>April. 2022 ~ Oct. 2022</td>
       <td>Preprocessing, Developing</td>
     </tr>
 	  <tr>
@@ -96,4 +96,4 @@ My life style is posted by
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Monday, 29 May, 16:10 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Monday, 30 May, 17:00 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
