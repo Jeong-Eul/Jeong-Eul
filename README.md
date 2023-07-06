@@ -77,6 +77,8 @@
 </table>
 <h3>🔔My latest posts</h3>
 <ul>
+  <li><a href="https://datascience0321.tistory.com/33"><b>😊 How to resolve MemoryError when creating a pivot table in Python.</b></a><br/><i>error solved. </i></li>
+  <li><a href="https://datascience0321.tistory.com/32"><b>😊 To create a virtual environment for Jupyter Notebook</b></a><br/><i>because I keep forgetting how to do it and need a reminder.</i></li>
   <li><a href="https://datascience0321.tistory.com/31"><b><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Multimodal_Compact_Multilinear_Pooling.png?uselang=ko" width="20"> Multimodal Machine Learning</b></a><br/><i>Foundation of Multimodal Machine Learning Through Survey Review.</i></li>
   <li><a href="https://github.com/Jeong-Eul/Data-Mining-Study/blob/main/Paper/BEHRT/REVIEW.md"><b>❤️ BEHRT: Transformer for Electronic Health Records</b></a><br/><i>Case study for research of Healthcare Machine Learning. </i></li>	
   <li><a href="https://github.com/Jeong-Eul/Data-Mining-Study/blob/Healthcare-research/Paper/circEWS/review.md"><b>❤️ Early prediction of circulatory failure in the intensive care unit using machine learning</b></a><br/><i>Case study for research of Healthcare Machine Learning. </i></li>
@@ -96,4 +98,4 @@ My life style is posted by
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Monday, 30 May, 17:00 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Thursday, 7 July, 15:05 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
