@@ -48,7 +48,7 @@ My research CV is in hear ➡️
       <td><a href="https://www.notion.so/INFORMS-2022-presentation-01afff4ab13e475392906ca84b4566a7"><b>Presentation in INFORMS 2022, Indianapolis, USA</b></a></td>
       <td><center>CDSLab, Industrial and Management, Myongji University</td>
       <td>Kaggle</td>
-      <td>Jan. 2022 ~ Oct. 2022</td>
+      <td>Jan. 2022 ~<br>Oct. 2022</td>
       <td>Developing</td>
     </tr>
 	  <tr>
