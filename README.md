@@ -87,7 +87,7 @@ My research CV is in hear ➡️
        
 <h3>🔔My latest posts</h3>
 <ul>
-  <li><a href="https://datascience0321.tistory.com/34"><b>📔 Domain Adaptation in Computer Vision: Everything You Need to Know - Korean Version</b></a><i>Posted for 20230806 BOAZ ADV seminar</i></li>
+  <li><a href="https://datascience0321.tistory.com/34"><b>📔 Domain Adaptation in Computer Vision: Everything You Need to Know - Korean Version</b></a><br/><i>Posted for 20230806 BOAZ ADV seminar</i></li>
   <li><a href="https://github.com/Jeong-Eul/Time2Vec/blob/main/Summary.md"><b>📒 [Review] Time2Vec: Learning a Vector Representation of Time </b></a><br/><i>Paper Review and implementation</i></li>
   <li><a href="https://github.com/Jeong-Eul/CEHR-BERT/blob/main/Summary.md"><b>❤️ CEHR-BERT:Incorperating temporal information from structured EHR data to improve prediction tasks </b></a><br/><i>Paper Review and developing research idea</i></li>
   <li><a href="https://datascience0321.tistory.com/33"><b>😊 How to resolve MemoryError when creating a pivot table in Python.</b></a><br/><i>error solved. </i></li>
