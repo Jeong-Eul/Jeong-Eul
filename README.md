@@ -4,11 +4,11 @@
 <p align="center">rnjswjddmf@gmail.com</p>
 <br>
 	
-<p>Welcome to my page!😙 </br> I'm Jeong Eul, Research Intern from <a href="https://dahs.korea.ac.kr/home"><b>DAHS</b>,<br>
-</a> School of Industrial and Management Engineering, Korea University <img src="https://i.ibb.co/30B7dtg/south-korea.png" width="15"/><br>
-currently living in <img src="https://cdn-icons-png.flaticon.com/128/2195/2195482.png" width="25"/> <b>Seoul, Korea</b>.<br>
+<p>Welcome to my page!😙 </br> I'm Jeong Eul, Master Student from <a href="https://dahs.korea.ac.kr/home"><b>DAHS</b>,<br>
+</a> School of Industrial and Management Engineering, Korea University <img src="https://github.com/Jeong-Eul/Data-Mining-Study/blob/main/BERT/s_img010201_logo1.png?raw=true" width="17" height="20"/><br>
+currently living in <img src="https://cdn-icons-png.flaticon.com/128/2195/2195482.png" width="25"/> <b>Seoul, Korea</b>.<img src="https://i.ibb.co/30B7dtg/south-korea.png" width="15"/><br>
 My research CV is in hear ➡️
-<a href="https://drive.google.com/file/d/1JGw5kj7z3q8j8b7csd0cbuWzU3jcx8m-/view?usp=sharing"><b>Curriculum Vitae(CV)</b></a> </p>
+<a href="https://drive.google.com/file/d/1j194tcsUHmiNbBYepWrZdQm3xneYy4SK/view?usp=sharing"><b>Curriculum Vitae(CV)</b></a> </p>
 
 ---
 
@@ -109,4 +109,4 @@ My research CV is in hear ➡️
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Friday, 6 Aug, 02:08 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Friday, 21 Aug, 20:40 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
