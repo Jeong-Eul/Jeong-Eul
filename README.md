@@ -43,8 +43,15 @@ My research CV is in hear ➡️
     </tr>
   </thead>
   <tbody>
-    <tr>
-    <thead align="center">
+<thead align="center">
+	<tr>
+      <td><b>Early Prediction of Circulatory Failure Using Contrastive Learning</b></td>
+      <td><center>DAHS, School of Industrial and Management Engineering, Korea University</center></td>
+      <td>PhysioNet, eICU Collaborative Research Databaset</td>
+      <td>April. 2023 ~ Present</td>
+      <td>Preprocessing, Developing</td>
+    </tr>
+    	<tr>
       <td><a href="https://www.notion.so/INFORMS-2022-presentation-01afff4ab13e475392906ca84b4566a7"><b>Presentation in INFORMS 2022, Indianapolis, USA</b></a></td>
       <td><center>CDSLab, Industrial and Management, Myongji University</td>
       <td>Kaggle</td>
@@ -109,4 +116,4 @@ My research CV is in hear ➡️
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Friday, 21 Aug, 20:40 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Wednesday, 30 Aug, 17:32 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
