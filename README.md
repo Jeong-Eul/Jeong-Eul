@@ -45,7 +45,7 @@ My research CV is in hear ➡️
   <tbody>
 <thead align="center">
 	<tr>
-      <td><b>Early Prediction of Circulatory Failure Using Contrastive Learning</b></td>
+      <td><a href="https://github.com/Jeong-Eul/23-2_Research"><b>Early Prediction of Circulatory Failure Using Contrastive Learning</b></a></td>
       <td><center>DAHS, School of Industrial and Management Engineering, Korea University</center></td>
       <td>MIMIC-IV PhysioNet, eICU Collaborative Research Database</td>
       <td>April. 2023 ~ Present</td>
@@ -116,4 +116,4 @@ My research CV is in hear ➡️
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Friday, 1 Sep, 18:54 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Friday, 1 Sep, 18:55 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
