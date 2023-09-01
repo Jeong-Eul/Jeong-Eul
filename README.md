@@ -1,14 +1,14 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/122766824/233268630-c46a25e2-47f4-4006-8fd6-62b5620271b1.png" width="260"/></p>
-<p align="center">rnjswjddmf@gmail.com</p>
+<p align="center">handmadeoutlier@korea.ac.kr</p>
 <br>
 	
 <p>Welcome to my page!😙 </br> I'm Jeong Eul, Master Student from <a href="https://dahs.korea.ac.kr/home"><b>DAHS</b>,<br>
 </a> School of Industrial and Management Engineering, Korea University <img src="https://github.com/Jeong-Eul/Data-Mining-Study/blob/main/BERT/s_img010201_logo1.png?raw=true" width="17" height="20"/><br>
 currently living in <img src="https://cdn-icons-png.flaticon.com/128/2195/2195482.png" width="25"/> <b>Seoul, Korea</b>.<img src="https://i.ibb.co/30B7dtg/south-korea.png" width="15"/><br>
 My research CV is in hear ➡️
-<a href="https://drive.google.com/file/d/1j194tcsUHmiNbBYepWrZdQm3xneYy4SK/view?usp=sharing"><b>Curriculum Vitae(CV)</b></a> </p>
+<a href="https://drive.google.com/file/d/1SSs8NO70ClPoCo_Ie9M4l8ZBdkB9_ULL/view?usp=sharing"><b>Curriculum Vitae(CV)</b></a> </p>
 
 ---
 
@@ -116,4 +116,4 @@ My research CV is in hear ➡️
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Wednesday, 30 Aug, 18:00 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Wednesday, 1 Sep, 12:28 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
