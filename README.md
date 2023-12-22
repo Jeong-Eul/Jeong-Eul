@@ -4,7 +4,7 @@
 <p align="center"><a href="mailto:handmadeoutlier@korea.ac.kr">handmadeoutlier@korea.ac.kr</a></p>
 <br>
 	
-<p>Welcome to my page!😙 </br> I'm Jeong Eul, Master Student from <a href="https://dahs.korea.ac.kr/home"><b>DAHS</b>,<br>
+<p>Welcome to my page!😙 </br> I'm Jeong Eul, Graduated Student from <a href="https://dahs.korea.ac.kr/home"><b>DAHS</b>,<br>
 </a> School of Industrial and Management Engineering, Korea University <img src="https://github.com/Jeong-Eul/Data-Mining-Study/blob/main/BERT/s_img010201_logo1.png?raw=true" width="17" height="20"/><br>
 currently living in <img src="https://cdn-icons-png.flaticon.com/128/2195/2195482.png" width="25"/> <b>Seoul, Korea</b>.<img src="https://i.ibb.co/30B7dtg/south-korea.png" width="15"/><br>
 My research CV is in hear ➡️
@@ -113,4 +113,4 @@ My research CV is in hear ➡️
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Monday, 4 Nov, 14:10 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Monday, 22 Nov, 16:57 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
