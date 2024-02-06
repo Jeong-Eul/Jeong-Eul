@@ -94,6 +94,7 @@ My research CV is in hear ➡️
        
 <h3>🔔My latest posts</h3>
 <ul>
+  <li><a href="https://datascience0321.tistory.com/43"><b>>📒 [Review] The Sequential Organ Failure Assessment (SOFA) Score: has the time come for an update?</i></li>
   <li><a href="https://datascience0321.tistory.com/37"><b>📔 About Circulatory Failure</b></a><br/><i>domain knowledge for Early prediction of Circulatory Failure via Supervised contrastive learning research</i></li>
   <li><a href="https://github.com/Jeong-Eul/Model-based-Optimization/blob/main/summary.md"><b>📒 [Review] Conservative Objective Models for Effective Offline Model-Based Optimization</b></a><br/><i>For Paper Review and Lab meeting presentation</i></li>
   <li><a href="https://datascience0321.tistory.com/34"><b>📔 Domain Adaptation in Computer Vision: Everything You Need to Know - Korean Version</b></a><br/><i>Posted for 20230806 BOAZ ADV seminar</i></li>
@@ -113,4 +114,4 @@ My research CV is in hear ➡️
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Monday, 22 Nov, 16:57 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Wed, 06 Feb, 16:57 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
