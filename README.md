@@ -2,6 +2,7 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/122766824/233268630-c46a25e2-47f4-4006-8fd6-62b5620271b1.png" width="260"/></p>
 <p align="center"><a href="mailto:handmadeoutlier@korea.ac.kr">handmadeoutlier@korea.ac.kr</a></p>
+<p align="center"><a href="mailto:KDAHS321@pitt.edu">KDAHS321@pitt.edu</a></p>
 <br>
 	
 <p>Welcome to my page!😙 </br> I'm Jeong Eul, Graduated Student from <a href="https://dahs.korea.ac.kr/home"><b>DAHS</b>,<br>
