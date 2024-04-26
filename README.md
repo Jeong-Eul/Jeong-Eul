@@ -55,14 +55,14 @@ My research CV is in hear ➡️
 	<tr>
       <td><b>Prognostic Monitoring System for Shock in Intensive Care Unit with Contrastive Learning</b></td>
       <td><center>DAHS, School of Industrial and Management Engineering, Korea University, Department of Emergency Medicine, Korea University Anam Hospital</center></td>
-      <td>MIMIC-IV PhysioNet, eICU Collaborative Research Database</td>
+      <td>MIMIC-IV, eICU Collaborative Research Database</td>
       <td>Dec. 2023 ~ April. 2024</td>
       <td>Developing, Publishing</td>
     </tr>
 	<tr>
       <td><a href="https://github.com/Jeong-Eul/CIRC_SCL"><b>Early Prediction of Circulatory Failure via Contrastive Learning</b></a></td>
       <td><center>DAHS, School of Industrial and Management Engineering, Korea University</center></td>
-      <td>MIMIC-IV PhysioNet, eICU Collaborative Research Database</td>
+      <td>MIMIC-IV, eICU Collaborative Research Database</td>
       <td>April. 2023 ~ Dec. 2023</td>
       <td>Preprocessing, Developing</td>
     </tr>
