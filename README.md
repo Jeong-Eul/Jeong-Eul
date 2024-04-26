@@ -46,10 +46,24 @@ My research CV is in hear ➡️
   <tbody>
 <thead align="center">
 	<tr>
+      <td><b>Shock Management using Reinforcement learning</b></td>
+      <td><center>DAHS, School of Industrial and Management Engineering, Korea University, University of Pittsburgh-Pulmonary, Allergy and Critical Care Medicine </center></td>
+      <td>MIMIC-III, HiRID</td>
+      <td>Dec. 2023 ~ Present</td>
+      <td>Developing, Publishing</td>
+    </tr>
+	<tr>
+      <td><b>Prognostic Monitoring System for Shock in Intensive Care Unit with Contrastive Learning</b></td>
+      <td><center>DAHS, School of Industrial and Management Engineering, Korea University, Department of Emergency Medicine, Korea University Anam Hospital</center></td>
+      <td>MIMIC-IV PhysioNet, eICU Collaborative Research Database</td>
+      <td>Dec. 2023 ~ April. 2024</td>
+      <td>Developing, Publishing</td>
+    </tr>
+	<tr>
       <td><a href="https://github.com/Jeong-Eul/CIRC_SCL"><b>Early Prediction of Circulatory Failure via Contrastive Learning</b></a></td>
       <td><center>DAHS, School of Industrial and Management Engineering, Korea University</center></td>
       <td>MIMIC-IV PhysioNet, eICU Collaborative Research Database</td>
-      <td>April. 2023 ~ Present</td>
+      <td>April. 2023 ~ Dec. 2023</td>
       <td>Preprocessing, Developing</td>
     </tr>
     	<tr>
@@ -95,10 +109,10 @@ My research CV is in hear ➡️
        
 <h3>🔔My latest posts</h3>
 <ul>
-  <li><a href="https://datascience0321.tistory.com/45"><b>📒 [Review] The Impact of Delays on Service Times in the Intensive Care Unit</i></li>
-  <li><a href="https://datascience0321.tistory.com/44"><b>📒 [Review] Mamba: Linear-Time Sequence Modeling with Selective State Spaces 쉽게 이해하기</i></li>
-  <li><a href="https://datascience0321.tistory.com/43"><b>📒 [Review] The Sequential Organ Failure Assessment (SOFA) Score: has the time come for an update?</i></li>
-  <li><a href="https://datascience0321.tistory.com/37"><b>📔 About Circulatory Failure</b></a><br/><i>domain knowledge for Early prediction of Circulatory Failure via Supervised contrastive learning research</i></li>
+  <li><a href="https://datascience0321.tistory.com/45"><b>📒 [Review] The Impact of Delays on Service Times in the Intensive Care Unit</a><br/><i>Case study for research of Queueing model in Healthcare setting. </i></li>
+  <li><a href="https://datascience0321.tistory.com/44"><b>📒 [Review] Mamba: Linear-Time Sequence Modeling with Selective State Spaces 쉽게 이해하기</a><br/><i>Research Trend Report: Sequential Modeling</i>
+  <li><a href="https://datascience0321.tistory.com/43"><b>📒 [Review] The Sequential Organ Failure Assessment (SOFA) Score: has the time come for an update?</a><br/><i>Brief Review about SOFA</i>
+  <li><a href="https://datascience0321.tistory.com/37"><b>📔 About Circulatory Failure</b></a><br/><i>Domain knowledge for Early prediction of Circulatory Failure via Supervised contrastive learning research</i></li>
   <li><a href="https://github.com/Jeong-Eul/Model-based-Optimization/blob/main/summary.md"><b>📒 [Review] Conservative Objective Models for Effective Offline Model-Based Optimization</b></a><br/><i>For Paper Review and Lab meeting presentation</i></li>
   <li><a href="https://datascience0321.tistory.com/34"><b>📔 Domain Adaptation in Computer Vision: Everything You Need to Know - Korean Version</b></a><br/><i>Posted for 20230806 BOAZ ADV seminar</i></li>
   <li><a href="https://github.com/Jeong-Eul/Time2Vec/blob/main/Summary.md"><b>📒 [Review] Time2Vec: Learning a Vector Representation of Time </b></a><br/><i>Paper Review and implementation</i></li>
@@ -111,10 +125,9 @@ My research CV is in hear ➡️
 
 <h3>Where to find me</h3>  
 <p><a href="https://www.instagram.com/handmadeoutlier/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @handmadeoutlier</a></p>       
-<p><a href="https://blog.naver.com/wjddmf0321"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Naver_Logotype.svg/1024px-Naver_Logotype.svg.png?uselang=ko" width="50"/> wjddmf0321</a></p>  
 <p><a href="https://datascience0321.tistory.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Tistory_logo.png" width="70"/> datascience0321</a></p>
 <p><a href="https://github.com/Jeong-Eul" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /> GitHub </a>
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Wed, 24 April, 16:15 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Wed, 26 April, 16:45 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
