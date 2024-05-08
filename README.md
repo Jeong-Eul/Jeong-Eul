@@ -59,6 +59,13 @@ My research CV is in hear ➡️
       <td>Dec. 2023 ~ April. 2024</td>
       <td>Developing, Publishing</td>
     </tr>
+ <tr>
+      <td><b>Sequential Anomaly Detection for Continuous Prediction of Unexpected ICU Admission from Emergency Department</b></td>
+      <td><center>DAHS, School of Industrial and Management Engineering, Korea University</center></td>
+      <td>MIMIC-IV(ED)</td>
+      <td>Sep 2023 ~ Feb 2024</td>
+      <td>Publishing</td>
+    </tr>
 	<tr>
       <td><a href="https://github.com/Jeong-Eul/CIRC_SCL"><b>Early Prediction of Circulatory Failure via Contrastive Learning</b></a></td>
       <td><center>DAHS, School of Industrial and Management Engineering, Korea University</center></td>
