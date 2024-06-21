@@ -53,7 +53,7 @@ My research CV is in hear ➡️
       <td>Developing, Publishing</td>
     </tr>
 	<tr>
-      <td><b>Prognostic Monitoring System for Shock in Intensive Care Unit with Contrastive Learning</b></td>
+      <td><b>Clear-Shock: Contrastive LEARning for Shock</b></td>
       <td><center>DAHS, School of Industrial and Management Engineering, Korea University, Department of Emergency Medicine, Korea University Anam Hospital</center></td>
       <td>MIMIC-IV, eICU Collaborative Research Database</td>
       <td>Dec. 2023 ~ April. 2024</td>
