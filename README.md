@@ -124,6 +124,7 @@ My research CV is in hear ➡️
        
 <h3>🔔My latest posts</h3>
 <ul>
+  <li><a href="https://datascience0321.tistory.com/47"><b>📒 [Review] Using machine learning for the early prediction of sepsis-associated ARDS in the ICU and identification of clinical phenotypes with differential responses to treatment </i></li>  
   <li><a href="https://datascience0321.tistory.com/46"><b>📒 [Review] Time-LLM: Time Series Forecasting By Reprogramming Large Language Models 쉽게 이해하기 </i></li>
   <li><a href="https://datascience0321.tistory.com/45"><b>📒 [Review] The Impact of Delays on Service Times in the Intensive Care Unit</a><br/><i>Case study for research of Queueing model in Healthcare setting. </i></li>
   <li><a href="https://datascience0321.tistory.com/44"><b>📒 [Review] Mamba: Linear-Time Sequence Modeling with Selective State Spaces 쉽게 이해하기</a><br/><i>Research Trend Report: Sequential Modeling</i>
@@ -137,4 +138,4 @@ My research CV is in hear ➡️
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Mon, 24 June, 16:25 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Mon, 25 June, 00:44 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
