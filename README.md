@@ -43,17 +43,25 @@ My research CV is in hear ➡️
       <td><b>📬 Role</b></td>
     </tr>
   </thead>
-  <tbody>
+  <tbody> 
 <thead align="center">
 	<tr>
       <td><b>Shock Management using Reinforcement learning</b></td>
-      <td><center>DAHS, School of Industrial and Management Engineering, Korea University, University of Pittsburgh-Pulmonary, Allergy and Critical Care Medicine </center></td>
+      <td><center>DAHS, School of Industrial and Management Engineering, Korea University,<br> University of Pittsburgh-Pulmonary, Allergy and Critical Care Medicine </center></td>
       <td>MIMIC-III, HiRID</td>
       <td>Dec. 2023 ~ Present</td>
       <td>Developing, Publishing</td>
     </tr>
-	<tr>
-      <td><b>Clear-Shock: Contrastive LEARning for Shock</b></td>
+	 <tr>
+      <td><b><a href = 'https://github.com/Jeong-Eul/uDART/tree/main'>uDART: Unsupervised Domain Adaptation for Early Prediction of ARDS</a></b></td>
+      <td><center>DAHS, School of Industrial and Management Engineering, Korea University</center></td>
+      <td>MIMIC-IV, HiRID</td>
+      <td>April. 2024 ~ Jun. 2024</td>
+      <td>Developing</td>
+    </tr>
+	
+<tr>
+      <td><b><a href = 'https://github.com/Jeong-Eul/CLEAR-Shock'>Clear-Shock: Contrastive LEARning for Shock</a></b></td>
       <td><center>DAHS, School of Industrial and Management Engineering, Korea University, Department of Emergency Medicine, Korea University Anam Hospital</center></td>
       <td>MIMIC-IV, eICU Collaborative Research Database</td>
       <td>Dec. 2023 ~ April. 2024</td>
@@ -116,18 +124,10 @@ My research CV is in hear ➡️
        
 <h3>🔔My latest posts</h3>
 <ul>
+  <li><a href="https://datascience0321.tistory.com/46"><b>📒 [Review] Time-LLM: Time Series Forecasting By Reprogramming Large Language Models 쉽게 이해하기 </i></li>
   <li><a href="https://datascience0321.tistory.com/45"><b>📒 [Review] The Impact of Delays on Service Times in the Intensive Care Unit</a><br/><i>Case study for research of Queueing model in Healthcare setting. </i></li>
   <li><a href="https://datascience0321.tistory.com/44"><b>📒 [Review] Mamba: Linear-Time Sequence Modeling with Selective State Spaces 쉽게 이해하기</a><br/><i>Research Trend Report: Sequential Modeling</i>
   <li><a href="https://datascience0321.tistory.com/43"><b>📒 [Review] The Sequential Organ Failure Assessment (SOFA) Score: has the time come for an update?</a><br/><i>Brief Review about SOFA</i>
-  <li><a href="https://datascience0321.tistory.com/37"><b>📔 About Circulatory Failure</b></a><br/><i>Domain knowledge for Early prediction of Circulatory Failure via Supervised contrastive learning research</i></li>
-  <li><a href="https://github.com/Jeong-Eul/Model-based-Optimization/blob/main/summary.md"><b>📒 [Review] Conservative Objective Models for Effective Offline Model-Based Optimization</b></a><br/><i>For Paper Review and Lab meeting presentation</i></li>
-  <li><a href="https://datascience0321.tistory.com/34"><b>📔 Domain Adaptation in Computer Vision: Everything You Need to Know - Korean Version</b></a><br/><i>Posted for 20230806 BOAZ ADV seminar</i></li>
-  <li><a href="https://github.com/Jeong-Eul/Time2Vec/blob/main/Summary.md"><b>📒 [Review] Time2Vec: Learning a Vector Representation of Time </b></a><br/><i>Paper Review and implementation</i></li>
-  <li><a href="https://github.com/Jeong-Eul/CEHR-BERT/blob/main/Summary.md"><b>❤️ CEHR-BERT:Incorperating temporal information from structured EHR data to improve prediction tasks </b></a><br/><i>Paper Review and developing research idea</i></li>
-  <li><a href="https://datascience0321.tistory.com/33"><b>😊 How to resolve MemoryError when creating a pivot table in Python.</b></a><br/><i>error solved. </i></li>
-  <li><a href="https://datascience0321.tistory.com/32"><b>😊 To create a virtual environment for Jupyter Notebook</b></a><br/><i>because I keep forgetting how to do it and need a reminder.</i></li>
-  <li><a href="https://github.com/Jeong-Eul/Data-Mining-Study/blob/main/Paper/BEHRT/REVIEW.md"><b>❤️ BEHRT: Transformer for Electronic Health Records</b></a><br/><i>Case study for research of Healthcare Machine Learning. </i></li>	
-  <li><a href="https://github.com/Jeong-Eul/Data-Mining-Study/blob/Healthcare-research/Paper/circEWS/review.md"><b>❤️ Early prediction of circulatory failure in the intensive care unit using machine learning</b></a><br/><i>Case study for research of Healthcare Machine Learning. </i></li>
 </ul>
 
 <h3>Where to find me</h3>  
@@ -137,4 +137,4 @@ My research CV is in hear ➡️
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Wed, 26 April, 16:45 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Mon, 24 June, 16:25 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
