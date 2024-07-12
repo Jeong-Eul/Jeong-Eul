@@ -9,7 +9,7 @@
 </a> School of Industrial and Management Engineering, Korea University <img src="https://github.com/Jeong-Eul/Data-Mining-Study/blob/main/BERT/s_img010201_logo1.png?raw=true" width="17" height="20"/><br>
 currently living in <img src="https://cdn-icons-png.flaticon.com/128/2195/2195482.png" width="25"/> <b>Seoul, Korea</b>.<img src="https://i.ibb.co/30B7dtg/south-korea.png" width="15"/><br>
 My research CV is in hear ➡️
-<a href="https://drive.google.com/file/d/11Bm_5-N4So-rkxos7urMiPgvnj1VslUH/view?usp=sharing"><b>Curriculum Vitae(CV)</b></a> </p>
+<a href="https://drive.google.com/file/d/1j5x_VVP2uh1hyCPmWBFEL8q7Zld-8w_G/view?usp=sharing"><b>Curriculum Vitae(CV)</b></a> </p>
 
 ---
 
@@ -68,7 +68,7 @@ My research CV is in hear ➡️
       <td>Developing, Publishing</td>
     </tr>
  <tr>
-      <td><b>Sequential Anomaly Detection for Continuous Prediction of Unexpected ICU Admission from Emergency Department</b></td>
+      <td><b><a href = 'https://ieeexplore.ieee.org/document/10594807'>Sequential Anomaly Detection for Continuous Prediction of Unexpected ICU Admission from Emergency Department</a></b></td>
       <td><center>DAHS, School of Industrial and Management Engineering, Korea University</center></td>
       <td>MIMIC-IV(ED)</td>
       <td>Sep 2023 ~ Feb 2024</td>
