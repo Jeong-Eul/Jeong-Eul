@@ -46,7 +46,7 @@ My research CV is in hear ➡️
   <tbody> 
 <thead align="center">
 	<tr>
-      <td><b>Shock Management using Reinforcement learning</b></td>
+      <td><b><a href = 'https://github.com/Jeong-Eul/KUPITTS_SHOCK'>Shock Management using Reinforcement learning</b></a></td>
       <td><center>DAHS, School of Industrial and Management Engineering, Korea University,<br> University of Pittsburgh-Pulmonary, Allergy and Critical Care Medicine </center></td>
       <td>MIMIC-III, HiRID</td>
       <td>Dec. 2023 ~ Present</td>
