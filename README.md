@@ -46,7 +46,7 @@ My research CV is in hear ➡️
   <tbody> 
 <thead align="center">
 	<tr>
-      <td><b><a href = 'https://github.com/Jeong-Eul/KUPITTS_SHOCK'>Shock Management using Reinforcement learning</b></a></td>
+      <td><b><a href = 'https://github.com/Jeong-Eul/KUPITTS_SHOCK'>A Treatment Decision Model Reflecting Clinical Reasoning for Improving Shock Patient Outcomes</b></a></td>
       <td><center>DAHS, School of Industrial and Management Engineering, Korea University,<br> University of Pittsburgh-Pulmonary, Allergy and Critical Care Medicine </center></td>
       <td>MIMIC-III, HiRID</td>
       <td>Dec. 2023 ~ Present</td>
@@ -124,6 +124,7 @@ My research CV is in hear ➡️
        
 <h3>🔔My latest posts</h3>
 <ul>
+  <li><a href="https://datascience0321.tistory.com/49"><b>📒 [Review] Recurrent Neural Networks for Multivariate Time Series With Missing Values </i></li>
   <li><a href="https://datascience0321.tistory.com/47"><b>📒 [Review] Using machine learning for the early prediction of sepsis-associated ARDS in the ICU and identification of clinical phenotypes with differential responses to treatment </i></li>  
   <li><a href="https://datascience0321.tistory.com/46"><b>📒 [Review] Time-LLM: Time Series Forecasting By Reprogramming Large Language Models 쉽게 이해하기 </i></li>
   <li><a href="https://datascience0321.tistory.com/45"><b>📒 [Review] The Impact of Delays on Service Times in the Intensive Care Unit</a><br/><i>Case study for research of Queueing model in Healthcare setting. </i></li>
@@ -138,4 +139,4 @@ My research CV is in hear ➡️
 <p><a href='https://www.linkedin.com/in/jeong-eul-kwon-34a604317/' target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> Linkedin </a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Mon, 25 June, 00:44 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Mon, 2 Dec, 22:51 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
