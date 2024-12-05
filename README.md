@@ -59,7 +59,7 @@ Contact ➡️ <a href="mailto:handmadeoutlier@korea.ac.kr">handmadeoutlier@kore
     </tr>
 	
 <tr>
-      <td><b><a href = 'https://github.com/Jeong-Eul/CLEAR-Shock'>Clear-Shock: Contrastive LEARning for Shock</a></b></td>
+      <td><b><a href = 'https://github.com/Jeong-Eul/CLEAR-Shock'>CLEAR-Shock: Contrastive LEARning for Shock</a></b></td>
       <td><center>DAHS, School of Industrial and Management Engineering, Korea University, Department of Emergency Medicine, Korea University Anam Hospital</center></td>
       <td>MIMIC-IV, eICU Collaborative Research Database</td>
       <td>Dec. 2023 ~ April. 2024</td>
