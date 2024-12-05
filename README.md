@@ -1,15 +1,13 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://github.com/Jeong-Eul/Jeong-Eul/blob/main/charmander_dancing.gif" width="50"/> Hey! Nice to see you. <img src="https://github.com/Jeong-Eul/Jeong-Eul/blob/main/charmander_dancing.gif" width="50"/></h1>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/122766824/233268630-c46a25e2-47f4-4006-8fd6-62b5620271b1.png" width="260"/></p>
-<p align="center"><a href="mailto:handmadeoutlier@korea.ac.kr">handmadeoutlier@korea.ac.kr</a></p>
-<p align="center"><a href="mailto:KDAHS321@pitt.edu">KDAHS321@pitt.edu</a></p>
 <br>
-	
-<p>Welcome to my page!😙 </br> I'm Jeong Eul, Graduated Student from <a href="https://dahs.korea.ac.kr/home"><b>DAHS</b>,<br>
-</a> School of Industrial and Management Engineering, Korea University <img src="https://github.com/Jeong-Eul/Data-Mining-Study/blob/main/BERT/s_img010201_logo1.png?raw=true" width="17" height="20"/><br>
+<p>Welcome to my page!😙 </br> I'm Jeong Eul Kwon, Graduated Student in the <a href="https://dahs.korea.ac.kr/home"><b>Data Analytics and Healthcare System Lab. </b>,<br>
+</a> School of Industrial and Management Engineering, Korea University <img src="https://github.com/Jeong-Eul/Data-Mining-Study/blob/main/BERT/s_img010201_logo1.png?raw=true" width="17" height="20"/>
 currently living in <img src="https://cdn-icons-png.flaticon.com/128/2195/2195482.png" width="25"/> <b>Seoul, Korea</b>.<img src="https://i.ibb.co/30B7dtg/south-korea.png" width="15"/><br>
 My research CV is in hear ➡️
-<a href="https://drive.google.com/file/d/1j5x_VVP2uh1hyCPmWBFEL8q7Zld-8w_G/view?usp=sharing"><b>Curriculum Vitae(CV)</b></a> </p>
+<a href="https://drive.google.com/file/d/1j5x_VVP2uh1hyCPmWBFEL8q7Zld-8w_G/view?usp=sharing"><b>Curriculum Vitae(CV)</b></a>
+
+Contact ➡️ <a href="mailto:handmadeoutlier@korea.ac.kr">handmadeoutlier@korea.ac.kr</a></p>
 
 ---
 
@@ -122,7 +120,7 @@ My research CV is in hear ➡️
 
 ---
        
-<h3>🔔My latest posts</h3>
+<h3><img src="https://github.com/Jeong-Eul/Jeong-Eul/blob/main/alert.gif" width="15"/> My latest posts</h3>
 <ul>
   <li><a href="https://datascience0321.tistory.com/49"><b>📒 [Review] Recurrent Neural Networks for Multivariate Time Series With Missing Values </i></li>
   <li><a href="https://datascience0321.tistory.com/47"><b>📒 [Review] Using machine learning for the early prediction of sepsis-associated ARDS in the ICU and identification of clinical phenotypes with differential responses to treatment </i></li>  
