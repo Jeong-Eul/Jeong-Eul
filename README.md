@@ -10,7 +10,7 @@ My research CV is in hear ➡️
 Contact ➡️ <a href="mailto:handmadeoutlier@korea.ac.kr">handmadeoutlier@korea.ac.kr</a></p>
 
 ---
-
+<!--
 <h3>✳️Skils</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
@@ -30,6 +30,8 @@ Contact ➡️ <a href="mailto:handmadeoutlier@korea.ac.kr">handmadeoutlier@kore
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-501515?style=flat-square&logo=html5&logoColor=white" />
 
 </p>
+-->
+<!--
 <h3>✴️Research Experiences</h3>
 <table>
   <thead align="center">
@@ -57,7 +59,7 @@ Contact ➡️ <a href="mailto:handmadeoutlier@korea.ac.kr">handmadeoutlier@kore
       <td>April. 2024 ~ Jun. 2024</td>
       <td>Developing</td>
     </tr>
-	
+<!--	
 <tr>
       <td><b><a href = 'https://github.com/Jeong-Eul/CLEAR-Shock'>CLEAR-Shock: Contrastive LEARning for Shock</a></b></td>
       <td><center>DAHS, School of Industrial and Management Engineering, Korea University, Department of Emergency Medicine, Korea University Anam Hospital</center></td>
@@ -117,8 +119,8 @@ Contact ➡️ <a href="mailto:handmadeoutlier@korea.ac.kr">handmadeoutlier@kore
     </thead>       
   </tbody>
 </table>
+-->
 
----
        
 <h3><img src="https://github.com/Jeong-Eul/Jeong-Eul/blob/main/alert.gif" width="15"/> My latest posts</h3>
 <ul>
