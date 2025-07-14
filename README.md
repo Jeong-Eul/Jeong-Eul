@@ -133,9 +133,11 @@ Contact ➡️ <a href="mailto:handmadeoutlier@korea.ac.kr">handmadeoutlier@kore
 </ul>
 -->
 <h3>Where to find me</h3>  
+<!--
 <p><a href="https://www.instagram.com/handmadeoutlier/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @handmadeoutlier</a></p>       
 <p><a href="https://datascience0321.tistory.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Tistory_logo.png" width="70"/> datascience0321</a></p>
 <p><a href="https://github.com/Jeong-Eul" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /> GitHub </a></p>
+-->
 <p><a href='https://www.linkedin.com/in/jeong-eul-kwon-34a604317/' target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> Linkedin </a></p>
 
 ------------
