@@ -121,7 +121,7 @@ Contact ➡️ <a href="mailto:handmadeoutlier@korea.ac.kr">handmadeoutlier@kore
 </table>
 -->
 
-       
+<!-- 
 <h3><img src="https://github.com/Jeong-Eul/Jeong-Eul/blob/main/alert.gif" width="15"/> My latest posts</h3>
 <ul>
   <li><a href="https://datascience0321.tistory.com/49"><b>📒 [Review] Recurrent Neural Networks for Multivariate Time Series With Missing Values </i></li>
@@ -131,7 +131,7 @@ Contact ➡️ <a href="mailto:handmadeoutlier@korea.ac.kr">handmadeoutlier@kore
   <li><a href="https://datascience0321.tistory.com/44"><b>📒 [Review] Mamba: Linear-Time Sequence Modeling with Selective State Spaces 쉽게 이해하기</a><br/><i>Research Trend Report: Sequential Modeling</i>
   <li><a href="https://datascience0321.tistory.com/43"><b>📒 [Review] The Sequential Organ Failure Assessment (SOFA) Score: has the time come for an update?</a><br/><i>Brief Review about SOFA</i>
 </ul>
-
+-->
 <h3>Where to find me</h3>  
 <p><a href="https://www.instagram.com/handmadeoutlier/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @handmadeoutlier</a></p>       
 <p><a href="https://datascience0321.tistory.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Tistory_logo.png" width="70"/> datascience0321</a></p>
