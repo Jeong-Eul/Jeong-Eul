@@ -1,8 +1,8 @@
 <h1><img src="https://github.com/Jeong-Eul/Jeong-Eul/blob/main/charmander_dancing.gif" width="50"/> Hey! Nice to see you. <img src="https://github.com/Jeong-Eul/Jeong-Eul/blob/main/charmander_dancing.gif" width="50"/></h1>
 
 <br>
-<p>Welcome to my page!😙 </br> I'm Jeong Eul Kwon, Graduated Student in the <a href="https://dahs.korea.ac.kr/home"><b>Data Analytics and Healthcare System Lab. </b>,<br>
-</a> School of Industrial and Management Engineering, Korea University <img src="https://github.com/Jeong-Eul/Data-Mining-Study/blob/main/BERT/s_img010201_logo1.png?raw=true" width="17" height="20"/>
+<p>Welcome to my page!😙 </br> I'm Jeong Eul Kwon, Graduated Student in the <a href="https://dahs.korea.ac.kr/home"><b>Data Analytics and Healthcare System Lab. </b><br>
+</a> School of Industrial and Management Engineering, Korea University <img src="https://github.com/Jeong-Eul/Jeong-Eul/blob/main/s_img010201_logo1.png" width="17" height="20"/>
 currently living in <img src="https://cdn-icons-png.flaticon.com/128/2195/2195482.png" width="25"/> <b>Seoul, Korea</b>.<img src="https://i.ibb.co/30B7dtg/south-korea.png" width="15"/><br>
 My research CV is in hear ➡️
 <a href="https://drive.google.com/file/d/1wjFPy1IYVMRjeGxjQM9kiKmJ84dtRsQs/view?usp=sharing"><b>Curriculum Vitae(CV)</b></a>
