@@ -1,6 +1,6 @@
 <h1><img src="https://github.com/Jeong-Eul/Jeong-Eul/blob/main/charmander_dancing.gif" width="50"/> Hey! Nice to see you. <img src="https://github.com/Jeong-Eul/Jeong-Eul/blob/main/charmander_dancing.gif" width="50"/></h1>
 
-<br>
+<!-- <br>
 <p>Welcome to my page!😙 </br> I'm Jeong Eul Kwon, Graduated Student in the <a href="https://dahs.korea.ac.kr/home"><b>Data Analytics and Healthcare System Lab. </b><br>
 </a> School of Industrial and Management Engineering, Korea University <img src="https://github.com/Jeong-Eul/Jeong-Eul/blob/main/s_img010201_logo1.png" width="17" height="20"/>
 currently living in <img src="https://cdn-icons-png.flaticon.com/128/2195/2195482.png" width="25"/> <b>Seoul, Korea</b>.<img src="https://i.ibb.co/30B7dtg/south-korea.png" width="15"/><br>
@@ -9,7 +9,7 @@ My research CV is in hear ➡️
 
 Contact ➡️ <a href="mailto:handmadeoutlier@korea.ac.kr">handmadeoutlier@korea.ac.kr</a></p>
 
----
+--- -->
 <!--
 <h3>✳️Skils</h3>
 <p>
@@ -132,13 +132,13 @@ Contact ➡️ <a href="mailto:handmadeoutlier@korea.ac.kr">handmadeoutlier@kore
   <li><a href="https://datascience0321.tistory.com/43"><b>📒 [Review] The Sequential Organ Failure Assessment (SOFA) Score: has the time come for an update?</a><br/><i>Brief Review about SOFA</i>
 </ul>
 -->
-<h3>Where to find me</h3>  
+<!-- <h3>Where to find me</h3>   -->
 <!--
 <p><a href="https://www.instagram.com/handmadeoutlier/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @handmadeoutlier</a></p>       
 <p><a href="https://datascience0321.tistory.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Tistory_logo.png" width="70"/> datascience0321</a></p>
 <p><a href="https://github.com/Jeong-Eul" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /> GitHub </a></p>
 -->
-<p><a href='https://www.linkedin.com/in/jeong-eul-kwon-34a604317/' target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> Linkedin </a></p>
+<!-- <p><a href='https://www.linkedin.com/in/jeong-eul-kwon-34a604317/' target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> Linkedin </a></p> -->
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Mon, 2 Dec, 22:51 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<!-- <p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Mon, 2 Dec, 22:51 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p> -->
